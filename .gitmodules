@@ -1,3 +1,6 @@
 [submodule "sample-server"]
 	path = sample-server
 	url = https://github.com/Dinuirar/sample-server
+[submodule "sample-client"]
+	path = sample-client
+	url = git@github.com:Dinuirar/sample-client.git
