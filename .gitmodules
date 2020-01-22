@@ -1,0 +1,3 @@
+[submodule "sample-server"]
+	path = sample-server
+	url = https://github.com/Dinuirar/sample-server
