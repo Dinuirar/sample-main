@@ -1,4 +1,4 @@
-# sample-general
+# sample-main
 
 <img src="img/logo.png" alt="logo"
 	title="sample_logo" width="200"/>
@@ -9,3 +9,11 @@ Software part of this project is composed of the following modules:
 
 <img src="img/components_diagram.png" alt="components diagram"
 	title="components diagram" width="450"/>
+
+To clone this repository with submodules, type:  
+`git clone --recursive-submodules git@github.com:Dinuirar/sample-main.git`  
+(you can replace `git@github.com:Dinuirar/sample-main.git` with `https://github.com/Dinuirar/sample-main.git` if you would like to clone this repository with HTTPS instead of SSH)
+
+To update client and server submodules, use:  
+`git submodule update --remote client`  
+`git submodule update --remote server`  
