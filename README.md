@@ -15,5 +15,5 @@ To clone this repository with submodules, type:
 (you can replace `git@github.com:Dinuirar/sample-main.git` with `https://github.com/Dinuirar/sample-main.git` if you would like to clone this repository with HTTPS instead of SSH)
 
 To update client and server submodules, use:  
-`git submodule update --remote client`  
-`git submodule update --remote server`  
+`git submodule update --remote sample-client`  
+`git submodule update --remote sample-server`  
